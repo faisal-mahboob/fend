@@ -1,14 +1,20 @@
+$foo:Helvetica,sans-serif; 
+
+
+
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-}
 
-main {
+    main {
     flex: 2;
 }
 
 section {
     max-width: 800px;
     margin: 50px auto;
+    font-family: $foo;
+}
+
 }
