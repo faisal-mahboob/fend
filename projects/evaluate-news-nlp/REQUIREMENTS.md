@@ -13,6 +13,7 @@
 - [ ] Make one request to the Aylien API
 
 - [ ] Use Sass for styling
+npm install -g npm@latest
 
 - [ ] Minify js and styles in the production environment
 
